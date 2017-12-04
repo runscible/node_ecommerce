@@ -1,0 +1,30 @@
+  .nav-wrapper{
+    background-color: black;  
+  }
+  .page-footer{
+    background-color: black;
+    height: auto; 
+  }
+  form{
+      margin: 25px; 
+  }
+  body{
+      background-size: 100%; 
+  }
+  .container{
+    height: 70%;  
+  }
+  form.col.s4{
+      border-style:solid;  
+      padding-left: 15px;
+      padding-bottom: 20px; 
+      padding-top: 20px; 
+      float: inline-end;  
+      background-color: azure; 
+      opacity: 0.9; 
+      border-radius: 7px;
+  }
+  #password, #password_2, #email, #name{
+    width: 280px; 
+  }
+
